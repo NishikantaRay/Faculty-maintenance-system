@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# NextGrowthLabs Assignments
+Deployment on AWS (React fullstack project)
+https://github.com/NishikantaRay/abcskillsorg-verify-portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Gitops(Github Actions) Angular project
 
-## Available Scripts
+https://github.com/NishikantaRay/Nishikantaray.github.io/blob/main/.github/workflows/action.yml
+ 
+Github-https://github.com/NishikantaRay
+Portfolio-https://nishikanta.tech/
+LinkedIn-https://www.linkedin.com/in/nishikanta-ray-7786a0196/
 
-In the project directory, you can run:
+## Home Page
+<img width="950" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/1ad462c8-53f6-479b-80c6-35018a7c0b37">
 
-### `npm start`
+## TASK A 
+<img width="487" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/05c1d822-810d-4b0d-9fa2-b65060cf71d4">
+<img width="497" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/5d7f1def-f512-4881-a926-cad544c02976">
+<img width="519" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/2b5f5c2d-7656-4b95-ba0e-069f2aed15e4">
+<img width="844" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/ce8744ba-3659-4d8f-9960-fddd36ac6d27">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## TASK B
+<img width="913" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/be50d042-ccdd-4040-8439-7378df870ec6">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## TASK C
+<img width="931" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/b4d07cda-5cd3-4c1b-bd3b-32269eb62964">
+<img width="905" alt="image" src="https://github.com/NishikantaRay/Faculty-maintenance-system/assets/62615392/cf3d2929-65d5-4061-83b1-4bb63bdb6837">
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
